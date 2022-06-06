@@ -1,0 +1,36 @@
+.auth-btn p {
+  cursor: pointer;
+  padding: 10px 0;
+  font-size: 17px;
+  font-family: Mulish, sans-serif;
+  font-weight: 600;
+  color: #FFF;
+  text-transform: capitalize;
+}
+
+.auth-btn p:hover {
+  color: #29abe2;
+}
+
+.account {
+  height: 42px;
+  padding: 0 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  border-radius: 12px;
+  background-color: rgb(19, 23, 40);
+  cursor: pointer;
+  border: 2px solid #FFF;
+}
+
+.account p {
+  cursor: pointer;
+  padding: 10px 0;
+  font-size: 17px;
+  font-family: Mulish, sans-serif;
+  font-weight: 600;
+  color: #FFF;
+  margin-bottom: 0;
+}

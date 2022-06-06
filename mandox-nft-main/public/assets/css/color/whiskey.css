@@ -1,0 +1,165 @@
+.theme-whiskey .header-logo .logo-img,
+.theme-whiskey .fxt-logo .login-logo{
+	background-image: url(../../images/whiskey-logo.png);
+}
+.theme-whiskey .theme-preloader > span {
+    background-image: url(../../images/whiskey-preloader.png);
+}
+.theme-whiskey .theme-btn,
+.theme-whiskey .header-right-btn > ul > li > .theme-btn,
+.theme-whiskey .owl-nav > button,
+.theme-whiskey .switch-button,
+.theme-whiskey .back-top-top,
+.theme-whiskey .mintable-pro-area .earn-main-box,
+.theme-whiskey .item-group-content .items-like.like-active,
+.theme-whiskey .view-store-item .view-store-box .item-group-btn .theme-btn,
+.theme-whiskey .pagination-box > ul > li.current,
+.theme-whiskey .styled-checkbox:checked+label:after,
+.theme-whiskey .nft-filter .nav > li > a.active,
+.theme-whiskey .discover-process .discover-process-box .discover-process-bar .progress-bar,
+.theme-whiskey .focus-nft-input::before,
+.theme-whiskey .default-switch input:checked+.slider,
+.theme-whiskey .item-group-box > .item-group-btn .theme-btn,
+.theme-whiskey .minting-plan-main .minting-plan-box .minting-label,
+.theme-whiskey .price-range-slider .range-bar .ui-slider-handle+span,
+.theme-whiskey .price-range-slider .range-bar .ui-slider-range,
+.theme-whiskey .tag,
+.theme-whiskey .header-menu-box .header-navbar-menu .navbar .navbar-toggler {
+	background-color: #d4a373;
+}
+.theme-whiskey .price-range-slider .range-bar .ui-slider-handle{
+	border-color: #d4a373;	
+}
+.theme-whiskey .theme-btn:hover::after, 
+.theme-whiskey .theme-btn:hover::before,
+.theme-whiskey .theme-btn::after, 
+.theme-whiskey .theme-btn::before,
+.theme-whiskey .back-top-top:hover {
+    background-color: #bb8c5e;
+}
+.theme-whiskey .slider-btn .theme-btn.sl-sale-btn,
+.theme-whiskey .item-group:hover .item-group-btn .theme-btn,
+.theme-whiskey .list-select-item > li > span.active, 
+.theme-whiskey .list-select-item > li > span:hover {
+    border-color: #d4a373;
+    background-color: #d4a373;
+}
+.theme-whiskey .header-right-btn > ul > li > .search-btn,
+.theme-whiskey .data-value-btn > button,
+.theme-whiskey .earn-btn .theme-btn.mints-btn {
+    background-color: rgb(212 163 115 / 8%) !important;
+    color: #d4a373 !important;
+}
+.theme-whiskey .browse-product-right > ul > li .browse-list.active{
+	color: #d4a373 !important;	
+}
+.theme-whiskey .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link.active, 
+.theme-whiskey .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link:hover,
+.theme-whiskey .header-main.fixed-header .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link.active, 
+.theme-whiskey .header-main.fixed-header .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link:hover,
+.theme-whiskey .header-right-btn > ul > li .login-text,
+.theme-whiskey .earn-info h6,
+.theme-whiskey .theme-title > a:hover,
+.theme-whiskey .section-title h6,
+.theme-whiskey .mintable-pro-area .earn-main-box .earn-btn .theme-btn,
+.theme-whiskey .item-group .item-price,
+.theme-whiskey .view-store-item .store-label,
+.theme-whiskey .store-ratting > i,
+.theme-whiskey .item-group-box .item-group-bid h2,
+.theme-whiskey .pagination-box > ul > li > a:hover,
+.theme-whiskey .modal-content .modal-body .close,
+.theme-whiskey .wallet-detected-box .wallet-detected-item .wallet-close-btn,
+.theme-whiskey .styled-checkbox+label > span >i, 
+.theme-whiskey .theme-input-box label > i,
+.theme-whiskey .upload-images-box .upload-images-item > i,
+.theme-whiskey .browse-bid-detail .browse-bid-box h2 span,
+.theme-whiskey .price-filter-box .price-small,
+.theme-whiskey .styled-checkbox+label > span > a,
+.theme-whiskey .theme-description > a,
+.theme-whiskey a:hover,
+.theme-whiskey .user-form .nft-links-btn > a,
+.theme-whiskey .search-close,
+.theme-whiskey .faq-box-main .faq-box .theme-title>i,
+.theme-whiskey .maintenance-card .maintenance-icon,
+.theme-whiskey .pricing-box .pricing-plan h2,
+.theme-whiskey .proposals-right .proposals-date,
+.theme-whiskey .proposals-sidebar-main>ul>li>span>a,
+.theme-whiskey .review-authore-detail h4 {
+	color: #d4a373;	
+}
+.theme-whiskey .em_bar_bg {
+    background: rgb(212 163 115 / 20%);
+}
+.theme-whiskey .em_bar_bg:before {
+    background: #d4a373;
+}
+.theme-whiskey .page-background {
+    background-color: rgb(212 163 115 / 4%);
+}
+.theme-whiskey .top-selling-store .item-group .item-group-content::before {
+    background: rgb(212 163 115 / 75%);
+}
+.theme-whiskey .footer-main {
+    background-color: #222222;
+}
+.theme-whiskey .footer-copyright {
+    border-color: rgb(212 163 115 / 20%);
+}
+.theme-whiskey .styled-checkbox:checked+label:after{
+	box-shadow: 2px 0 0 #d4a373, 4px 0 0 #d4a373, 4px -2px 0 #d4a373, 4px -4px 0 #d4a373, 4px -6px 0 #d4a373, 4px -8px 0 #d4a373;
+}
+.theme-whiskey .discover-tab-pane-box .discover-tab-right .discover-tab-buy {
+    background-color: rgb(212 163 115 / 5%);
+}
+.theme-whiskey .bradcrumb-area{
+	background-image: linear-gradient(to right, rgb(212 163 115 / 80%), rgb(212 163 115 / 80%), rgb(212 163 115 / 80%), rgb(212 163 115 / 80%), rgb(212 163 115 / 80%));
+}
+/* user panel css */
+.theme-whiskey .user-panel-header-top,
+.theme-whiskey .owner .chat-msg-text,
+.theme-whiskey .tag {
+    background-color: #d4a373;
+}
+.theme-whiskey .user-panel-profile .profile-dropdown .user-links>li > a.user-logout{
+	background-color: #d4a373 !important;	
+}
+.theme-whiskey .user-panel-profile h3 > a > span,
+.theme-whiskey .user-header-bottom-left .navbar .navbar-nav .nav-item.active .nav-link, 
+.theme-whiskey .user-header-bottom-left .navbar .navbar-nav .nav-item.active .nav-link > i, 
+.theme-whiskey .user-header-bottom-left .navbar .navbar-nav .nav-item:hover .nav-link, 
+.theme-whiskey .user-header-bottom-left .navbar .navbar-nav .nav-item:hover .nav-link > i,
+.theme-whiskey .user-link a,
+.theme-whiskey .user-theme-title span,
+.theme-whiskey .user-store-info ul li.store-item-solid,
+.theme-whiskey .my-earnings-amount-info h2,
+.theme-whiskey .my-earnings-sales-item .my-earnings-sales-info .earning-color,
+.theme-whiskey .current-item-box .item-view-box,
+.theme-whiskey .sold-item-list-box .user-store-info .item-price,
+.theme-whiskey .theme-table table tbody > tr > td > a,
+.theme-whiskey .chat-msg-date span,
+.shadow-dark.theme-whiskey .chat-msg-date span {
+    color: #d4a373;
+}
+.theme-whiskey .user-no-record-found .user-no-record-icon,
+.theme-whiskey .my-earnings-sales-box .my-earnings-no-sales .user-no-record-icon,
+.theme-whiskey .setting-change-profile .change-profile-icon {
+    background-color: rgb(212 163 115 / 8%) !important;
+    color: #d4a373;
+}
+.theme-whiskey .theme-btn:hover{
+	color: #fff;
+}
+.theme-whiskey .header-right-btn > ul > li .login-text {
+    background-color: rgb(212 163 115 / 8%);
+}
+.theme-whiskey .theme-table table thead {
+    background-color: rgb(212 163 115 / 5%);
+}
+.theme-whiskey .theme-table table tbody>tr:nth-child(2n){
+	background-color: rgb(212 163 115 / 2%);	
+}
+.theme-whiskey .msg.active,
+.shadow-dark.theme-whiskey .msg.active{
+	border-color: #d4a373;
+}
+/* user panel css */

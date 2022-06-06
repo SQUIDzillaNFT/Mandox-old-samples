@@ -1,0 +1,165 @@
+.theme-walls .header-logo .logo-img,
+.theme-walls .fxt-logo .login-logo{
+	background-image: url(../../images/walls-logo.png);
+}
+.theme-walls .theme-preloader > span {
+    background-image: url(../../images/walls-preloader.png);
+}
+.theme-walls .theme-btn,
+.theme-walls .header-right-btn > ul > li > .theme-btn,
+.theme-walls .owl-nav > button,
+.theme-walls .switch-button,
+.theme-walls .back-top-top,
+.theme-walls .mintable-pro-area .earn-main-box,
+.theme-walls .item-group-content .items-like.like-active,
+.theme-walls .view-store-item .view-store-box .item-group-btn .theme-btn,
+.theme-walls .pagination-box > ul > li.current,
+.theme-walls .styled-checkbox:checked+label:after,
+.theme-walls .nft-filter .nav > li > a.active,
+.theme-walls .discover-process .discover-process-box .discover-process-bar .progress-bar,
+.theme-walls .focus-nft-input::before,
+.theme-walls .default-switch input:checked+.slider,
+.theme-walls .item-group-box > .item-group-btn .theme-btn,
+.theme-walls .minting-plan-main .minting-plan-box .minting-label,
+.theme-walls .price-range-slider .range-bar .ui-slider-handle+span,
+.theme-walls .price-range-slider .range-bar .ui-slider-range,
+.theme-walls .tag,
+.theme-walls .header-menu-box .header-navbar-menu .navbar .navbar-toggler {
+	background-color: #457b9d;
+}
+.theme-walls .price-range-slider .range-bar .ui-slider-handle{
+	border-color: #457b9d;	
+}
+.theme-walls .theme-btn:hover::after, 
+.theme-walls .theme-btn:hover::before,
+.theme-walls .theme-btn::after, 
+.theme-walls .theme-btn::before,
+.theme-walls .back-top-top:hover {
+    background-color: #366786;
+}
+.theme-walls .slider-btn .theme-btn.sl-sale-btn,
+.theme-walls .item-group:hover .item-group-btn .theme-btn,
+.theme-walls .list-select-item > li > span.active, 
+.theme-walls .list-select-item > li > span:hover {
+    border-color: #457b9d;
+    background-color: #457b9d;
+}
+.theme-walls .header-right-btn > ul > li > .search-btn,
+.theme-walls .data-value-btn > button,
+.theme-walls .earn-btn .theme-btn.mints-btn {
+    background-color: rgb(69 123 157 / 8%) !important;
+    color: #457b9d !important;
+}
+.theme-walls .browse-product-right > ul > li .browse-list.active{
+	color: #457b9d !important;	
+}
+.theme-walls .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link.active, 
+.theme-walls .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link:hover,
+.theme-walls .header-main.fixed-header .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link.active, 
+.theme-walls .header-main.fixed-header .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link:hover,
+.theme-walls .header-right-btn > ul > li .login-text,
+.theme-walls .earn-info h6,
+.theme-walls .theme-title > a:hover,
+.theme-walls .section-title h6,
+.theme-walls .mintable-pro-area .earn-main-box .earn-btn .theme-btn,
+.theme-walls .item-group .item-price,
+.theme-walls .view-store-item .store-label,
+.theme-walls .store-ratting > i,
+.theme-walls .item-group-box .item-group-bid h2,
+.theme-walls .pagination-box > ul > li > a:hover,
+.theme-walls .modal-content .modal-body .close,
+.theme-walls .wallet-detected-box .wallet-detected-item .wallet-close-btn,
+.theme-walls .styled-checkbox+label > span >i, 
+.theme-walls .theme-input-box label > i,
+.theme-walls .upload-images-box .upload-images-item > i,
+.theme-walls .browse-bid-detail .browse-bid-box h2 span,
+.theme-walls .price-filter-box .price-small,
+.theme-walls .styled-checkbox+label > span > a,
+.theme-walls .theme-description > a,
+.theme-walls a:hover,
+.theme-walls .user-form .nft-links-btn > a,
+.theme-walls .search-close,
+.theme-walls .faq-box-main .faq-box .theme-title>i,
+.theme-walls .maintenance-card .maintenance-icon,
+.theme-walls .pricing-box .pricing-plan h2,
+.theme-walls .proposals-right .proposals-date,
+.theme-walls .proposals-sidebar-main>ul>li>span>a,
+.theme-walls .review-authore-detail h4 {
+	color: #457b9d;	
+}
+.theme-walls .em_bar_bg {
+    background: rgb(69 123 157 / 20%);
+}
+.theme-walls .em_bar_bg:before {
+    background: #457b9d;
+}
+.theme-walls .page-background {
+    background-color: rgb(69 123 157 / 4%);
+}
+.theme-walls .top-selling-store .item-group .item-group-content::before {
+    background: rgb(69 123 157 / 75%);
+}
+.theme-walls .footer-main {
+    background-color: #222222;
+}
+.theme-walls .footer-copyright {
+    border-color: rgb(69 123 157 / 20%);
+}
+.theme-walls .styled-checkbox:checked+label:after{
+	box-shadow: 2px 0 0 #457b9d, 4px 0 0 #457b9d, 4px -2px 0 #457b9d, 4px -4px 0 #457b9d, 4px -6px 0 #457b9d, 4px -8px 0 #457b9d;
+}
+.theme-walls .discover-tab-pane-box .discover-tab-right .discover-tab-buy {
+    background-color: rgb(69 123 157 / 5%);
+}
+.theme-walls .bradcrumb-area{
+	background-image: linear-gradient(to right, rgb(69 123 157 / 80%), rgb(69 123 157 / 80%), rgb(69 123 157 / 80%), rgb(69 123 157 / 80%), rgb(69 123 157 / 80%));
+}
+/* user panel css */
+.theme-walls .user-panel-header-top,
+.theme-walls .owner .chat-msg-text,
+.theme-walls .tag {
+    background-color: #457b9d;
+}
+.theme-walls .user-panel-profile .profile-dropdown .user-links>li > a.user-logout{
+	background-color: #457b9d !important;	
+}
+.theme-walls .user-panel-profile h3 > a > span,
+.theme-walls .user-header-bottom-left .navbar .navbar-nav .nav-item.active .nav-link, 
+.theme-walls .user-header-bottom-left .navbar .navbar-nav .nav-item.active .nav-link > i, 
+.theme-walls .user-header-bottom-left .navbar .navbar-nav .nav-item:hover .nav-link, 
+.theme-walls .user-header-bottom-left .navbar .navbar-nav .nav-item:hover .nav-link > i,
+.theme-walls .user-link a,
+.theme-walls .user-theme-title span,
+.theme-walls .user-store-info ul li.store-item-solid,
+.theme-walls .my-earnings-amount-info h2,
+.theme-walls .my-earnings-sales-item .my-earnings-sales-info .earning-color,
+.theme-walls .current-item-box .item-view-box,
+.theme-walls .sold-item-list-box .user-store-info .item-price,
+.theme-walls .theme-table table tbody > tr > td > a,
+.theme-walls .chat-msg-date span,
+.shadow-dark.theme-walls .chat-msg-date span {
+    color: #457b9d;
+}
+.theme-walls .user-no-record-found .user-no-record-icon,
+.theme-walls .my-earnings-sales-box .my-earnings-no-sales .user-no-record-icon,
+.theme-walls .setting-change-profile .change-profile-icon {
+    background-color: rgb(69 123 157 / 8%) !important;
+    color: #457b9d;
+}
+.theme-walls .theme-btn:hover{
+	color: #fff;
+}
+.theme-walls .header-right-btn > ul > li .login-text {
+    background-color: rgb(69 123 157 / 8%);
+}
+.theme-walls .theme-table table thead {
+    background-color: rgb(69 123 157 / 5%);
+}
+.theme-walls .theme-table table tbody>tr:nth-child(2n){
+	background-color: rgb(69 123 157 / 2%);	
+}
+.theme-walls .msg.active,
+.shadow-dark.theme-walls .msg.active{
+	border-color: #457b9d;
+}
+/* user panel css */

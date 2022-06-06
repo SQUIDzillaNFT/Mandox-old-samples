@@ -1,0 +1,261 @@
+.theme-rtl{
+    text-align: right;
+}
+.theme-rtl .switched-styles {
+    text-align: left;
+}
+.theme-rtl .owl-rtl {
+    direction: rtl !important;
+}
+.theme-rtl .row {
+    direction: rtl;
+}
+.theme-rtl .card__time,
+.theme-rtl .theme-btn {
+    direction: ltr;
+}
+.theme-rtl .owl-nav button {
+    margin-right: 0px;
+    margin-left: 8px;
+}
+.theme-rtl .owl-nav button:last-child {
+    margin-left: 0px;
+}
+.theme-rtl .theme-container {
+    left: inherit;
+    right: 20px;
+}
+.theme-rtl .header-main .header-menu-box {
+    float: left;
+}
+.theme-rtl .nav-item .dropdown-box .dropdown-box-inner,
+.theme-rtl .item-group.item-group-list .item-group-content .item-group-info,
+.theme-rtl .label-nft-input,
+.theme-rtl .theme-input-box .theme-input,
+.theme-rtl .nft-input {
+    text-align: right;
+}
+.theme-rtl .header-menu-box .header-navbar-menu {
+    float: right;
+}
+.theme-rtl .header-menu-box .header-right-btn,
+.theme-rtl .slider-btn .theme-btn.sl-sale-btn {
+    margin-left: 0px;
+}
+.theme-rtl .slider-btn .theme-btn {
+    margin-left: 15px;
+    margin-right: 0px;
+}
+.theme-rtl .header-menu-box .header-navbar-menu .navbar .nav-item {
+    margin-left: 25px;
+    margin-right: 0px;
+}
+.theme-rtl .singel-about-box-item .singel-about-box-icon {
+    float: right;
+    margin-left: 25px;
+    margin-right: 0px;
+}
+.theme-rtl .footer-icon-box {
+    float: right;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+.theme-rtl .back-top-top {
+    left: 30px;
+    right: inherit;
+}
+.theme-rtl .browse-product-top {
+    padding: 12px 0px 12px 0px;
+}
+.theme-rtl .browse-product-right > ul > li {
+    margin-left: 10px;
+    margin-right: 0px;
+}
+.theme-rtl .browse-product-right > ul > li:last-child {
+    margin-left: 0px;
+}
+.theme-rtl .browse-product-right > ul {
+    float: left;
+}
+.theme-rtl .browse-product-top .browse-product-left {
+    padding-right: 15px;
+}
+.theme-rtl .styled-checkbox:checked + label:after {
+    left: inherit;
+    right: 12px;
+}
+.theme-rtl .styled-checkbox + label:before {
+    margin-left: 10px;
+    margin-right: 0px;
+}
+.theme-rtl .item-group-timer > ul > li {
+    margin-left: 10px;
+    margin-right: 0px;
+}
+.theme-rtl .item-group.item-group-list .item-group-content .item-group-info .item-group-box {
+    float: right;
+}
+.theme-rtl .item-group.item-group-list .item-group-content .item-group-info,
+.theme-rtl .view-store-box .view-store-info {
+    padding-right: 20px;
+    padding-left: 0px;
+}
+.theme-rtl .bradcrumb-main > .bradcrumb-right > ul {
+    float: none;
+}
+.theme-rtl .buy-vote-checkbox .styled-checkbox + label:before {
+    left: inherit;
+}
+.theme-rtl .blockchain-popup-box .nft-input-box .nft-input {
+    text-align: right;
+}
+.theme-rtl .gasless-area .row,
+.theme-rtl .contact-area .row {
+    direction: inherit;
+}
+.theme-rtl .list-select-item > li {
+    float: right;
+    margin-left: 8px;
+    margin-right: 0px;
+}
+.theme-rtl .upload-images-box .upload-images-item {
+    float: right;
+}
+.theme-rtl .fixed-price-tab-box .nft-filter .nav {
+    flex-direction: row-reverse;
+}
+.theme-rtl .theme-box-center .row > div{
+    vertical-align: middle;
+}
+.theme-rtl .Listing-checkbox label {
+    padding-right: 30px;
+}
+.theme-rtl .styled-checkbox + label:before {
+    position: absolute;
+    right: 0px;
+}
+.theme-rtl .browse-product-filter .filter-box .filter-menu ul > li {
+    padding-right: 30px;
+}
+.theme-rtl .browse-product-filter .filter-box .filter-menu ul > li .styled-checkbox + label:before {
+    right: -30px;
+}
+.theme-rtl .styled-checkbox:checked + label:after {
+    right: -17px;
+}
+.theme-rtl .item-group-box > div {
+    float: right;
+    margin-right: 0px;
+}
+.theme-rtl .item-group-box .item-group-bid {
+    border-right: 1px solid #eaeff5;
+    padding-right: 18px;
+    margin-right: 5px;
+    border-left: 0px;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+.theme-rtl .item-group-btn .item-detail-btn {
+    margin-right: 6px;
+    margin-left: 0px;
+}
+.theme-rtl .browse-tag ul > li {
+    float: right;
+}
+.theme-rtl .text-left {
+    text-align: right !important;
+}
+.theme-rtl .faq-box-main .faq-box .theme-title {
+    padding-left: 0px;
+    padding-right: 35px;
+}
+.theme-rtl .faq-box-main .faq-box .theme-title > i {
+    left: inherit;
+    right: 0px;
+}
+.theme-rtl .user-policy-box ul {
+    padding-right: 35px;
+    padding-left: 0px;
+}
+.theme-rtl .browse-detail-info .browse-bid-detail .browse-refresh{
+    left: 20px;
+    right: inherit;
+}
+.theme-rtl .earn-btn .theme-btn.mints-btn {
+    margin-left: 10px;
+    margin-right: 0px;
+}
+.theme-rtl .user-screen-item .nft-links-btn .styled-checkbox+label:before {
+    left: inherit;
+    right: -30px;
+}
+.theme-rtl .slider-area .slider-inner .slider-images {
+    left: -50px;
+}
+.theme-rtl .slider-area .slider-inner .slider-images .computer-images {
+    max-width: 480px;
+}
+.theme-rtl .earn-area .earn-main-box .earn-images.earn-about-images {
+    left: inherit;
+    right: -140px;
+}
+.theme-rtl .earn-area .earn-main-box .earn-images.earn-about-images .about-eth-coin {
+    left: 155px;
+}
+.theme-rtl .platform-artist-images{
+    left: -130px;
+}
+.theme-rtl .earn-area .earn-main-box .earn-images.list-sell-box {
+    left: 50px;
+}
+@media screen and (max-width: 479px){
+    .theme-rtl .header-main .header-menu-box {
+        float: none;
+    }
+    .theme-rtl .header-right-btn > ul > li:first-child {
+        left: 15px;
+        right: inherit;
+    }
+    .theme-rtl .header-menu-box .header-navbar-menu .navbar .navbar-toggler {
+        left: 70px;
+        right: inherit;
+    }
+    .theme-rtl .browse-thumblain > ul {
+        text-align: center !important;
+    }
+    .theme-rtl .singel-about-box-item .singel-about-box-icon {
+        float: none;
+        margin: 0px auto 20px;
+    }
+}
+@media screen and (min-width: 480px) and (max-width: 767px){
+    .theme-rtl .header-main .header-logo{
+        text-align: left;
+    }
+    .theme-rtl .header-menu-box .header-navbar-menu .navbar .navbar-toggler {
+        right: inherit !important;
+        left: 15px;
+    }
+    .theme-rtl .header-right-btn>ul>li:first-child {
+        right: inherit !important;
+        left: 70px;
+    }
+    .theme-rtl .header-right-btn>ul>li:last-child {
+        left: 125px;
+        right: inherit;
+    }
+}
+@media screen and (max-width: 991px) and (min-width: 768px){
+    .theme-rtl .header-menu-box .header-navbar-menu .navbar .navbar-toggler {
+        left: 15px;
+        right: inherit;
+    }
+    .theme-rtl .header-menu-box .header-right-btn {
+        margin-left: 56px;
+    }
+}
+@media screen and (max-width: 1199px) and (min-width: 992px){
+    .theme-rtl .header-menu-box .header-navbar-menu .navbar .nav-item {
+        margin-left: 15px;
+    }
+}
