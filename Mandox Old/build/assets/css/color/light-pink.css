@@ -1,0 +1,165 @@
+.theme-light-pink .header-logo .logo-img,
+.theme-light-pink .fxt-logo .login-logo{
+	background-image: url(../../images/light-pink-logo.png);
+}
+.theme-light-pink .theme-preloader > span {
+    background-image: url(../../images/light-pink-preloader.png);
+}
+.theme-light-pink .theme-btn,
+.theme-light-pink .header-right-btn > ul > li > .theme-btn,
+.theme-light-pink .owl-nav > button,
+.theme-light-pink .switch-button,
+.theme-light-pink .back-top-top,
+.theme-light-pink .mintable-pro-area .earn-main-box,
+.theme-light-pink .item-group-content .items-like.like-active,
+.theme-light-pink .view-store-item .view-store-box .item-group-btn .theme-btn,
+.theme-light-pink .pagination-box > ul > li.current,
+.theme-light-pink .styled-checkbox:checked+label:after,
+.theme-light-pink .nft-filter .nav > li > a.active,
+.theme-light-pink .discover-process .discover-process-box .discover-process-bar .progress-bar,
+.theme-light-pink .focus-nft-input::before,
+.theme-light-pink .default-switch input:checked+.slider,
+.theme-light-pink .item-group-box > .item-group-btn .theme-btn,
+.theme-light-pink .minting-plan-main .minting-plan-box .minting-label,
+.theme-light-pink .price-range-slider .range-bar .ui-slider-handle+span,
+.theme-light-pink .price-range-slider .range-bar .ui-slider-range,
+.theme-light-pink .tag,
+.theme-light-pink .header-menu-box .header-navbar-menu .navbar .navbar-toggler {
+	background-color: #d48b91;
+}
+.theme-light-pink .price-range-slider .range-bar .ui-slider-handle{
+	border-color: #d48b91;	
+}
+.theme-light-pink .theme-btn:hover::after, 
+.theme-light-pink .theme-btn:hover::before,
+.theme-light-pink .theme-btn::after, 
+.theme-light-pink .theme-btn::before,
+.theme-light-pink .back-top-top:hover {
+    background-color: #ad6c71;
+}
+.theme-light-pink .slider-btn .theme-btn.sl-sale-btn,
+.theme-light-pink .item-group:hover .item-group-btn .theme-btn,
+.theme-light-pink .list-select-item > li > span.active, 
+.theme-light-pink .list-select-item > li > span:hover {
+    border-color: #d48b91;
+    background-color: #d48b91;
+}
+.theme-light-pink .header-right-btn > ul > li > .search-btn,
+.theme-light-pink .data-value-btn > button,
+.theme-light-pink .earn-btn .theme-btn.mints-btn {
+    background-color: rgb(212 140 146 / 8%) !important;
+    color: #d48b91 !important;
+}
+.theme-light-pink .browse-product-right > ul > li .browse-list.active{
+	color: #d48b91 !important;	
+}
+.theme-light-pink .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link.active, 
+.theme-light-pink .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link:hover,
+.theme-light-pink .header-main.fixed-header .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link.active, 
+.theme-light-pink .header-main.fixed-header .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link:hover,
+.theme-light-pink .header-right-btn > ul > li .login-text,
+.theme-light-pink .earn-info h6,
+.theme-light-pink .theme-title > a:hover,
+.theme-light-pink .section-title h6,
+.theme-light-pink .mintable-pro-area .earn-main-box .earn-btn .theme-btn,
+.theme-light-pink .item-group .item-price,
+.theme-light-pink .view-store-item .store-label,
+.theme-light-pink .store-ratting > i,
+.theme-light-pink .item-group-box .item-group-bid h2,
+.theme-light-pink .pagination-box > ul > li > a:hover,
+.theme-light-pink .modal-content .modal-body .close,
+.theme-light-pink .wallet-detected-box .wallet-detected-item .wallet-close-btn,
+.theme-light-pink .styled-checkbox+label > span >i, 
+.theme-light-pink .theme-input-box label > i,
+.theme-light-pink .upload-images-box .upload-images-item > i,
+.theme-light-pink .browse-bid-detail .browse-bid-box h2 span,
+.theme-light-pink .price-filter-box .price-small,
+.theme-light-pink .styled-checkbox+label > span > a,
+.theme-light-pink .theme-description > a,
+.theme-light-pink a:hover,
+.theme-light-pink .user-form .nft-links-btn > a,
+.theme-light-pink .search-close,
+.theme-light-pink .faq-box-main .faq-box .theme-title>i,
+.theme-light-pink .maintenance-card .maintenance-icon,
+.theme-light-pink .pricing-box .pricing-plan h2,
+.theme-light-pink .proposals-right .proposals-date,
+.theme-light-pink .proposals-sidebar-main>ul>li>span>a,
+.theme-light-pink .review-authore-detail h4 {
+	color: #d48b91;	
+}
+.theme-light-pink .em_bar_bg {
+    background: rgb(212 140 146 / 20%);
+}
+.theme-light-pink .em_bar_bg:before {
+    background: #d48b91;
+}
+.theme-light-pink .page-background {
+    background-color: rgb(212 140 146 / 4%);
+}
+.theme-light-pink .top-selling-store .item-group .item-group-content::before {
+    background: rgb(212 140 146 / 75%);
+}
+.theme-light-pink .footer-main {
+    background-color: #222222;
+}
+.theme-light-pink .footer-copyright {
+    border-color: rgb(212 140 146 / 20%);
+}
+.theme-light-pink .styled-checkbox:checked+label:after{
+	box-shadow: 2px 0 0 #d48b91, 4px 0 0 #d48b91, 4px -2px 0 #d48b91, 4px -4px 0 #d48b91, 4px -6px 0 #d48b91, 4px -8px 0 #d48b91;
+}
+.theme-light-pink .discover-tab-pane-box .discover-tab-right .discover-tab-buy {
+    background-color: rgb(212 140 146 / 5%);
+}
+.theme-light-pink .bradcrumb-area{
+	background-image: linear-gradient(to right, rgb(212 140 146 / 80%), rgb(212 140 146 / 80%), rgb(212 140 146 / 80%), rgb(212 140 146 / 80%), rgb(212 140 146 / 80%));
+}
+/* user panel css */
+.theme-light-pink .user-panel-header-top,
+.theme-light-pink .owner .chat-msg-text,
+.theme-light-pink .tag {
+    background-color: #d48b91;
+}
+.theme-light-pink .user-panel-profile .profile-dropdown .user-links>li > a.user-logout{
+	background-color: #d48b91 !important;	
+}
+.theme-light-pink .user-panel-profile h3 > a > span,
+.theme-light-pink .user-header-bottom-left .navbar .navbar-nav .nav-item.active .nav-link, 
+.theme-light-pink .user-header-bottom-left .navbar .navbar-nav .nav-item.active .nav-link > i, 
+.theme-light-pink .user-header-bottom-left .navbar .navbar-nav .nav-item:hover .nav-link, 
+.theme-light-pink .user-header-bottom-left .navbar .navbar-nav .nav-item:hover .nav-link > i,
+.theme-light-pink .user-link a,
+.theme-light-pink .user-theme-title span,
+.theme-light-pink .user-store-info ul li.store-item-solid,
+.theme-light-pink .my-earnings-amount-info h2,
+.theme-light-pink .my-earnings-sales-item .my-earnings-sales-info .earning-color,
+.theme-light-pink .current-item-box .item-view-box,
+.theme-light-pink .sold-item-list-box .user-store-info .item-price,
+.theme-light-pink .theme-table table tbody > tr > td > a,
+.theme-light-pink .chat-msg-date span,
+.shadow-dark.theme-light-pink .chat-msg-date span {
+    color: #d48b91;
+}
+.theme-light-pink .user-no-record-found .user-no-record-icon,
+.theme-light-pink .my-earnings-sales-box .my-earnings-no-sales .user-no-record-icon,
+.theme-light-pink .setting-change-profile .change-profile-icon {
+    background-color: rgb(212 140 146 / 8%) !important;
+    color: #d48b91;
+}
+.theme-light-pink .theme-btn:hover{
+	color: #fff;
+}
+.theme-light-pink .header-right-btn > ul > li .login-text {
+    background-color: rgb(212 140 146 / 8%);
+}
+.theme-light-pink .theme-table table thead {
+    background-color: rgb(212 140 146 / 5%);
+}
+.theme-light-pink .theme-table table tbody>tr:nth-child(2n){
+	background-color: rgb(212 140 146 / 2%);	
+}
+.theme-light-pink .msg.active,
+.shadow-dark.theme-light-pink .msg.active{
+	border-color: #d48b91;
+}
+/* user panel css */

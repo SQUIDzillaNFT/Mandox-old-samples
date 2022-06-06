@@ -1,0 +1,165 @@
+.theme-blueberry .header-logo .logo-img,
+.theme-blueberry .fxt-logo .login-logo{
+	background-image: url(../../images/blueberry-logo.png);
+}
+.theme-blueberry .theme-preloader > span {
+    background-image: url(../../images/blueberry-preloader.png) !important;
+}
+.theme-blueberry .theme-btn,
+.theme-blueberry .header-right-btn > ul > li > .theme-btn,
+.theme-blueberry .owl-nav > button,
+.theme-blueberry .switch-button,
+.theme-blueberry .back-top-top,
+.theme-blueberry .mintable-pro-area .earn-main-box,
+.theme-blueberry .item-group-content .items-like.like-active,
+.theme-blueberry .view-store-item .view-store-box .item-group-btn .theme-btn,
+.theme-blueberry .pagination-box > ul > li.current,
+.theme-blueberry .styled-checkbox:checked+label:after,
+.theme-blueberry .nft-filter .nav > li > a.active,
+.theme-blueberry .discover-process .discover-process-box .discover-process-bar .progress-bar,
+.theme-blueberry .focus-nft-input::before,
+.theme-blueberry .default-switch input:checked+.slider,
+.theme-blueberry .item-group-box > .item-group-btn .theme-btn,
+.theme-blueberry .minting-plan-main .minting-plan-box .minting-label,
+.theme-blueberry .price-range-slider .range-bar .ui-slider-handle+span,
+.theme-blueberry .price-range-slider .range-bar .ui-slider-range,
+.theme-blueberry .tag,
+.theme-blueberry .header-menu-box .header-navbar-menu .navbar .navbar-toggler {
+	background-color: #8176ff;
+}
+.theme-blueberry .price-range-slider .range-bar .ui-slider-handle{
+	border-color: #8176ff;	
+}
+.theme-blueberry .theme-btn:hover::after, 
+.theme-blueberry .theme-btn:hover::before,
+.theme-blueberry .theme-btn::after, 
+.theme-blueberry .theme-btn::before,
+.theme-blueberry .back-top-top:hover {
+    background-color: #6a5df9;
+}
+.theme-blueberry .slider-btn .theme-btn.sl-sale-btn,
+.theme-blueberry .item-group:hover .item-group-btn .theme-btn,
+.theme-blueberry .list-select-item > li > span.active, 
+.theme-blueberry .list-select-item > li > span:hover {
+    border-color: #8176ff;
+    background-color: #8176ff;
+}
+.theme-blueberry .header-right-btn > ul > li > .search-btn,
+.theme-blueberry .data-value-btn > button,
+.theme-blueberry .earn-btn .theme-btn.mints-btn {
+    background-color: rgb(129 118 255 / 8%) !important;
+    color: #8176ff !important;
+}
+.theme-blueberry .browse-product-right > ul > li .browse-list.active{
+	color: #8176ff !important;	
+}
+.theme-blueberry .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link.active, 
+.theme-blueberry .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link:hover,
+.theme-blueberry .header-main.fixed-header .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link.active, 
+.theme-blueberry .header-main.fixed-header .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link:hover,
+.theme-blueberry .header-right-btn > ul > li .login-text,
+.theme-blueberry .earn-info h6,
+.theme-blueberry .theme-title > a:hover,
+.theme-blueberry .section-title h6,
+.theme-blueberry .mintable-pro-area .earn-main-box .earn-btn .theme-btn,
+.theme-blueberry .item-group .item-price,
+.theme-blueberry .view-store-item .store-label,
+.theme-blueberry .store-ratting > i,
+.theme-blueberry .item-group-box .item-group-bid h2,
+.theme-blueberry .pagination-box > ul > li > a:hover,
+.theme-blueberry .modal-content .modal-body .close,
+.theme-blueberry .wallet-detected-box .wallet-detected-item .wallet-close-btn,
+.theme-blueberry .styled-checkbox+label > span >i, 
+.theme-blueberry .theme-input-box label > i,
+.theme-blueberry .upload-images-box .upload-images-item > i,
+.theme-blueberry .browse-bid-detail .browse-bid-box h2 span,
+.theme-blueberry .price-filter-box .price-small,
+.theme-blueberry .styled-checkbox+label > span > a,
+.theme-blueberry .theme-description > a,
+.theme-blueberry a:hover,
+.theme-blueberry .user-form .nft-links-btn > a,
+.theme-blueberry .search-close,
+.theme-blueberry .faq-box-main .faq-box .theme-title>i,
+.theme-blueberry .maintenance-card .maintenance-icon,
+.theme-blueberry .pricing-box .pricing-plan h2,
+.theme-blueberry .proposals-right .proposals-date,
+.theme-blueberry .proposals-sidebar-main>ul>li>span>a,
+.theme-blueberry .review-authore-detail h4 {
+	color: #8176ff;	
+}
+.theme-blueberry .em_bar_bg {
+    background: rgb(129 118 255 / 20%);
+}
+.theme-blueberry .em_bar_bg:before {
+    background: #8176ff;
+}
+.theme-blueberry .page-background {
+    background-color: rgb(129 118 255 / 4%);
+}
+.theme-blueberry .top-selling-store .item-group .item-group-content::before {
+    background: rgb(129 118 255 / 75%);
+}
+.theme-blueberry .footer-main {
+    background-color: #222222;
+}
+.theme-blueberry .footer-copyright {
+    border-color: rgb(129 118 255 / 20%);
+}
+.theme-blueberry .styled-checkbox:checked+label:after{
+	box-shadow: 2px 0 0 #8176ff, 4px 0 0 #8176ff, 4px -2px 0 #8176ff, 4px -4px 0 #8176ff, 4px -6px 0 #8176ff, 4px -8px 0 #8176ff;
+}
+.theme-blueberry .discover-tab-pane-box .discover-tab-right .discover-tab-buy {
+    background-color: rgb(129 118 255 / 5%);
+}
+.theme-blueberry .bradcrumb-area{
+	background-image: linear-gradient(to right, rgb(129 118 255 / 80%), rgb(129 118 255 / 80%), rgb(129 118 255 / 80%), rgb(129 118 255 / 80%), rgb(129 118 255 / 80%));
+}
+/* user panel css */
+.theme-blueberry .user-panel-header-top,
+.theme-blueberry .owner .chat-msg-text,
+.theme-blueberry .tag {
+    background-color: #8176ff;
+}
+.theme-blueberry .user-panel-profile .profile-dropdown .user-links>li > a.user-logout{
+	background-color: #8176ff !important;	
+}
+.theme-blueberry .user-panel-profile h3 > a > span,
+.theme-blueberry .user-header-bottom-left .navbar .navbar-nav .nav-item.active .nav-link, 
+.theme-blueberry .user-header-bottom-left .navbar .navbar-nav .nav-item.active .nav-link > i, 
+.theme-blueberry .user-header-bottom-left .navbar .navbar-nav .nav-item:hover .nav-link, 
+.theme-blueberry .user-header-bottom-left .navbar .navbar-nav .nav-item:hover .nav-link > i,
+.theme-blueberry .user-link a,
+.theme-blueberry .user-theme-title span,
+.theme-blueberry .user-store-info ul li.store-item-solid,
+.theme-blueberry .my-earnings-amount-info h2,
+.theme-blueberry .my-earnings-sales-item .my-earnings-sales-info .earning-color,
+.theme-blueberry .current-item-box .item-view-box,
+.theme-blueberry .sold-item-list-box .user-store-info .item-price,
+.theme-blueberry .theme-table table tbody > tr > td > a,
+.theme-blueberry .chat-msg-date span,
+.shadow-dark.theme-blueberry .chat-msg-date span {
+    color: #8176ff;
+}
+.theme-blueberry .user-no-record-found .user-no-record-icon,
+.theme-blueberry .my-earnings-sales-box .my-earnings-no-sales .user-no-record-icon,
+.theme-blueberry .setting-change-profile .change-profile-icon {
+    background-color: rgb(129 118 255 / 8%) !important;
+    color: #8176ff;
+}
+.theme-blueberry .theme-btn:hover{
+	color: #fff;
+}
+.theme-blueberry .header-right-btn > ul > li .login-text {
+    background-color: rgb(129 118 255 / 8%);
+}
+.theme-blueberry .theme-table table thead {
+    background-color: rgb(129 118 255 / 5%);
+}
+.theme-blueberry .theme-table table tbody>tr:nth-child(2n){
+	background-color: rgb(129 118 255 / 2%);	
+}
+.theme-blueberry .msg.active,
+.shadow-dark.theme-blueberry .msg.active{
+	border-color: #8176ff;
+}
+/* user panel css */

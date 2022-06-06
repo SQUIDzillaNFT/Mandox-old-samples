@@ -1,0 +1,150 @@
+.theme-rtl{
+    text-align: right;
+}
+.theme-rtl .switched-styles {
+    text-align: left;
+}
+.theme-rtl .owl-rtl {
+    direction: rtl !important;
+}
+.theme-rtl .row {
+    direction: rtl;
+}
+.theme-rtl .owl-nav button {
+    margin-right: 0px;
+    margin-left: 8px;
+}
+.theme-rtl .owl-nav button:last-child {
+    margin-left: 0px;
+}
+.theme-rtl .theme-container {
+    left: inherit;
+    right: 20px;
+}
+.theme-rtl .user-header-bottom-left .navbar .navbar-nav .nav-item .nav-link>i {
+    margin-left: 5px;
+    margin-right: 0px;
+}
+.theme-rtl .user-panel-header-top-right .user-panel-profile,
+.theme-rtl .user-header-bottom-main .user-header-bottom-right,
+.theme-rtl .user-panel-breadcrumb-right ul {
+    float: left;
+}
+.theme-rtl .user-header-bottom-main .user-header-bottom-left,
+.theme-rtl .sold-item-list-box .user-store-info ul li {
+    float: right;
+}
+.theme-rtl .dropdown-box .dropdown-box-inner,
+.theme-rtl .theme-table table thead > tr > th,
+.theme-rtl .theme-table table tbody > tr > td {
+    text-align: right;
+}
+.theme-rtl .upload-images-box .upload-images-item {
+    float: right;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+.theme-rtl .current-item-box .item-group-btn .theme-btn {
+    margin-left: 10px;
+    margin-right: 0px;
+}
+.theme-rtl .user-store-box-main .user-store-item .user-store-media {
+    padding: 0px;
+}
+.theme-rtl .user-store-box-main .user-store-item .user-store-info {
+    padding-right: 20px;
+}
+.theme-rtl .user-store-info ul {
+    padding-right: 20px;
+    padding-left: 0px;
+}
+.theme-rtl .view-store-box .view-store-info {
+    padding-right: 20px;
+    padding-left: 0px;
+}
+.theme-rtl .item-group-box .item-group-bid {
+    padding-left: 8px;
+    padding-right: 0px;
+}
+.theme-rtl .owner .chat-msg-date {
+    right: auto;
+    left: calc(100% + 12px);
+}
+.theme-rtl .chat-msg-date {
+    left: inherit;
+    right: calc(100% + 12px);
+}
+.theme-rtl .conversation-area {
+    border-left: 1px solid var(--border-color);
+    border-radius: 0px;
+}
+.theme-rtl .app .header .header-user {
+    margin-right: 24px;
+    margin-left: 0px;
+    border-left: 0px;
+    border-right: 1px solid #eee;
+}
+.theme-rtl .theme-rtl .app .header .header-user .msg.online:before {
+    right: 40px;
+}
+.theme-rtl .msg.online:before {
+    left: inherit;
+    right: 78px;
+}
+.theme-rtl .msg-profile {
+    margin-left: 15px;
+    margin-right: 0px;
+}
+.theme-rtl .conversation-area .msg {
+    padding-left: 60px;
+    padding-right: 20px;
+}
+.theme-rtl .conversation-area .msg .msg-date {
+    left: 15px;
+    right: inherit;
+}
+.theme-rtl .owner .chat-msg-content {
+    margin-left: 15px;
+    margin-right: 0px;
+}
+.theme-rtl .chat-msg-content {
+    margin-right: 12px;
+    margin-left: 0px;
+}
+.theme-rtl .user-review-authore .reviews-box {
+    left: 12px;
+    right: inherit;
+}
+.theme-rtl .user-review-list .user-review-bottom{
+    left: 20px;
+    right: inherit;
+}
+.theme-rtl .user-review-authore .review-authore-detail {
+    padding-right: 15px;
+    padding-left: 0px;
+}
+@media screen and (max-width: 479px){
+    .theme-rtl .user-panel-header-top .user-panel-header-top-right {
+        left: 15px;
+        right: inherit;
+    }
+    .theme-rtl .user-panel-profile .profile-dropdown {
+        left: 0px;
+        right: inherit;
+    }
+    .theme-rtl .user-panel-profile .profile-dropdown::before {
+        left: 12px;
+        right: inherit;
+    }
+}
+@media screen and (max-width: 991px){
+    .theme-rtl .user-panel-breadcrumb-right > ul {
+        float: right;
+    }
+}
+@media screen and (min-width: 480px) and (max-width: 767px){
+    .theme-rtl .user-panel-header-top .user-panel-header-top-right {
+        left: 15px;
+        right: inherit;
+    }
+}

@@ -1,0 +1,38 @@
+body.shadow-dark{
+	color: #999999 !important;
+}
+.shadow-dark .user-panel-main-box .user-panel-main {
+    background-color: #23293f;
+    border: 1px solid #3f455b;
+    box-shadow: 0 20px 50px 5px #23293f;
+    -webkit-box-shadow: 0 20px 50px 5px #23293f;
+}
+.shadow-dark .app {
+    background: #23293f;
+}
+.shadow-dark .header,
+.shadow-dark .app .header .header-user,
+.shadow-dark .conversation-area{
+	border-color: #3f455b;
+}
+.shadow-dark .msg.active{
+	border-color: #27a5db;
+}
+.shadow-dark .chat-msg-date span{
+	color: #27a5db;	
+}
+.shadow-dark .chat-msg-text,
+.shadow-dark .owner .chat-msg-text,
+.shadow-dark .chat-area-footer input{
+	background-color: #131728;
+}
+.shadow-dark .chat-msg-text,
+.shadow-dark .owner .chat-msg-text,
+.shadow-dark .chat-area-footer .chat-btn,
+.shadow-dark .chat-area-footer input{
+	color: #999999;
+}
+.shadow-dark .chat-area-footer {
+    border-color: #3f455b;
+    background-color: #23293f;
+}

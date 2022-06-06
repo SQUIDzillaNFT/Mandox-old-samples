@@ -1,0 +1,165 @@
+.theme-orrange .header-logo .logo-img,
+.theme-orrange .fxt-logo .login-logo{
+	background-image: url(../../images/orrange-logo.png);
+}
+.theme-orrange .theme-preloader > span {
+    background-image: url(../../images/orrange-preloader.png);
+}
+.theme-orrange .theme-btn,
+.theme-orrange .header-right-btn > ul > li > .theme-btn,
+.theme-orrange .owl-nav > button,
+.theme-orrange .switch-button,
+.theme-orrange .back-top-top,
+.theme-orrange .mintable-pro-area .earn-main-box,
+.theme-orrange .item-group-content .items-like.like-active,
+.theme-orrange .view-store-item .view-store-box .item-group-btn .theme-btn,
+.theme-orrange .pagination-box > ul > li.current,
+.theme-orrange .styled-checkbox:checked+label:after,
+.theme-orrange .nft-filter .nav > li > a.active,
+.theme-orrange .discover-process .discover-process-box .discover-process-bar .progress-bar,
+.theme-orrange .focus-nft-input::before,
+.theme-orrange .default-switch input:checked+.slider,
+.theme-orrange .item-group-box > .item-group-btn .theme-btn,
+.theme-orrange .minting-plan-main .minting-plan-box .minting-label,
+.theme-orrange .price-range-slider .range-bar .ui-slider-handle+span,
+.theme-orrange .price-range-slider .range-bar .ui-slider-range,
+.theme-orrange .tag,
+.theme-orrange .header-menu-box .header-navbar-menu .navbar .navbar-toggler {
+	background-color: #e76f51;
+}
+.theme-orrange .price-range-slider .range-bar .ui-slider-handle{
+	border-color: #e76f51;	
+}
+.theme-orrange .theme-btn:hover::after, 
+.theme-orrange .theme-btn:hover::before,
+.theme-orrange .theme-btn::after, 
+.theme-orrange .theme-btn::before,
+.theme-orrange .back-top-top:hover {
+    background-color: #cc5c3f;
+}
+.theme-orrange .slider-btn .theme-btn.sl-sale-btn,
+.theme-orrange .item-group:hover .item-group-btn .theme-btn,
+.theme-orrange .list-select-item > li > span.active, 
+.theme-orrange .list-select-item > li > span:hover {
+    border-color: #e76f51;
+    background-color: #e76f51;
+}
+.theme-orrange .header-right-btn > ul > li > .search-btn,
+.theme-orrange .data-value-btn > button,
+.theme-orrange .earn-btn .theme-btn.mints-btn {
+    background-color: rgb(231 111 81 / 8%) !important;
+    color: #e76f51 !important;
+}
+.theme-orrange .browse-product-right > ul > li .browse-list.active{
+	color: #e76f51 !important;	
+}
+.theme-orrange .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link.active, 
+.theme-orrange .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link:hover,
+.theme-orrange .header-main.fixed-header .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link.active, 
+.theme-orrange .header-main.fixed-header .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link:hover,
+.theme-orrange .header-right-btn > ul > li .login-text,
+.theme-orrange .earn-info h6,
+.theme-orrange .theme-title > a:hover,
+.theme-orrange .section-title h6,
+.theme-orrange .mintable-pro-area .earn-main-box .earn-btn .theme-btn,
+.theme-orrange .item-group .item-price,
+.theme-orrange .view-store-item .store-label,
+.theme-orrange .store-ratting > i,
+.theme-orrange .item-group-box .item-group-bid h2,
+.theme-orrange .pagination-box > ul > li > a:hover,
+.theme-orrange .modal-content .modal-body .close,
+.theme-orrange .wallet-detected-box .wallet-detected-item .wallet-close-btn,
+.theme-orrange .styled-checkbox+label > span >i, 
+.theme-orrange .theme-input-box label > i,
+.theme-orrange .upload-images-box .upload-images-item > i,
+.theme-orrange .browse-bid-detail .browse-bid-box h2 span,
+.theme-orrange .price-filter-box .price-small,
+.theme-orrange .styled-checkbox+label > span > a,
+.theme-orrange .theme-description > a,
+.theme-orrange a:hover,
+.theme-orrange .user-form .nft-links-btn > a,
+.theme-orrange .search-close,
+.theme-orrange .faq-box-main .faq-box .theme-title>i,
+.theme-orrange .maintenance-card .maintenance-icon,
+.theme-orrange .pricing-box .pricing-plan h2,
+.theme-orrange .proposals-right .proposals-date,
+.theme-orrange .proposals-sidebar-main>ul>li>span>a,
+.theme-orrange .review-authore-detail h4 {
+	color: #e76f51;	
+}
+.theme-orrange .em_bar_bg {
+    background: rgb(231 111 81 / 20%);
+}
+.theme-orrange .em_bar_bg:before {
+    background: #e76f51;
+}
+.theme-orrange .page-background {
+    background-color: rgb(231 111 81 / 4%);
+}
+.theme-orrange .top-selling-store .item-group .item-group-content::before {
+    background: rgb(231 111 81 / 75%);
+}
+.theme-orrange .footer-main {
+    background-color: #222222;
+}
+.theme-orrange .footer-copyright {
+    border-color: rgb(231 111 81 / 20%);
+}
+.theme-orrange .styled-checkbox:checked+label:after{
+	box-shadow: 2px 0 0 #e76f51, 4px 0 0 #e76f51, 4px -2px 0 #e76f51, 4px -4px 0 #e76f51, 4px -6px 0 #e76f51, 4px -8px 0 #e76f51;
+}
+.theme-orrange .discover-tab-pane-box .discover-tab-right .discover-tab-buy {
+    background-color: rgb(231 111 81 / 5%);
+}
+.theme-orrange .bradcrumb-area{
+	background-image: linear-gradient(to right, rgb(231 111 81 / 80%), rgb(231 111 81 / 80%), rgb(231 111 81 / 80%), rgb(231 111 81 / 80%), rgb(231 111 81 / 80%));
+}
+/* user panel css */
+.theme-orrange .user-panel-header-top,
+.theme-orrange .owner .chat-msg-text,
+.theme-orrange .tag {
+    background-color: #e76f51;
+}
+.theme-orrange .user-panel-profile .profile-dropdown .user-links>li > a.user-logout{
+	background-color: #e76f51 !important;	
+}
+.theme-orrange .user-panel-profile h3 > a > span,
+.theme-orrange .user-header-bottom-left .navbar .navbar-nav .nav-item.active .nav-link, 
+.theme-orrange .user-header-bottom-left .navbar .navbar-nav .nav-item.active .nav-link > i, 
+.theme-orrange .user-header-bottom-left .navbar .navbar-nav .nav-item:hover .nav-link, 
+.theme-orrange .user-header-bottom-left .navbar .navbar-nav .nav-item:hover .nav-link > i,
+.theme-orrange .user-link a,
+.theme-orrange .user-theme-title span,
+.theme-orrange .user-store-info ul li.store-item-solid,
+.theme-orrange .my-earnings-amount-info h2,
+.theme-orrange .my-earnings-sales-item .my-earnings-sales-info .earning-color,
+.theme-orrange .current-item-box .item-view-box,
+.theme-orrange .sold-item-list-box .user-store-info .item-price,
+.theme-orrange .theme-table table tbody > tr > td > a,
+.theme-orrange .chat-msg-date span,
+.shadow-dark.theme-orrange .chat-msg-date span {
+    color: #e76f51;
+}
+.theme-orrange .user-no-record-found .user-no-record-icon,
+.theme-orrange .my-earnings-sales-box .my-earnings-no-sales .user-no-record-icon,
+.theme-orrange .setting-change-profile .change-profile-icon {
+    background-color: rgb(231 111 81 / 8%) !important;
+    color: #e76f51;
+}
+.theme-orrange .theme-btn:hover{
+	color: #fff;
+}
+.theme-orrange .header-right-btn > ul > li .login-text {
+    background-color: rgb(231 111 81 / 8%);
+}
+.theme-orrange .theme-table table thead {
+    background-color: rgb(231 111 81 / 5%);
+}
+.theme-orrange .theme-table table tbody>tr:nth-child(2n){
+	background-color: rgb(231 111 81 / 2%);	
+}
+.theme-orrange .msg.active,
+.shadow-dark.theme-orrange .msg.active{
+	border-color: #e76f51;
+}
+/* user panel css */

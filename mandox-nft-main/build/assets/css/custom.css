@@ -1,0 +1,40 @@
+.pagination {
+    display: block !important;
+}
+
+.pagination-box>ul>li.active {
+    background-color: #29abe2;
+    border-radius: 100%;
+    width: 45px;
+    height: 45px;
+    line-height: 46px;
+    text-align: center;
+    margin: 0 6px;
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+}
+
+.pagination-box>ul>li.active>a{
+    color: #fff !important;
+}
+
+.anticon svg {
+    color: #29abe2;
+}
+
+.nft-items-media-dark {
+    background-color: #131728;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.nft-items-authore-dark {
+    background-color: #131728;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.nft-items-info-dark {
+    padding: 12px 0 15px 0 !important;
+}

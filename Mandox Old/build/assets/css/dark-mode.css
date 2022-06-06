@@ -1,0 +1,424 @@
+.shadow-dark .slider-area {
+    background: transparent;
+}
+.theme-default.shadow-dark .header-logo .logo-img,
+.theme-default.shadow-dark .fxt-logo .login-logo{
+    background-image: url(../images/default-logo.png);
+}
+.theme-default.shadow-dark .theme-preloader > span {
+    background-image: url(../images/default-preloader.png);
+}
+.shadow-dark .theme-container {
+    background-color: #313850;
+    color: #999;
+}
+.shadow-dark .dropdown-custom .dropdown-select-custom,
+.shadow-dark .dropdown-menu-custom {
+    background-color: #dddddd;
+    border-color: #dddddd;
+    box-shadow: none;
+    color: #222;
+}
+.shadow-dark .dropdown-custom .dropdown-select-custom::before,
+.shadow-dark .dropdown-menu-custom li > a {
+    color: #222222;
+}
+.shadow-dark .dropdown-menu-custom li {
+    border-top: solid 1px #868686;
+}
+.shadow-dark,
+.shadow-dark .footer-main,
+.shadow-dark.search-active::before,
+.shadow-dark .theme-preloader,
+body.shadow-dark .modal-backdrop,
+.shadow-dark .footer-icon-box a, 
+.shadow-dark .item-group-timer>ul>li, 
+.shadow-dark .cke_inner, 
+.shadow-dark .cke_wysiwyg_frame, 
+.shadow-dark .cke_wysiwyg_div, 
+.shadow-dark .browse-detail-info .browse-detail-timer,
+.shadow-dark .discover-process .discover-process-box .discover-process-bar,
+.shadow-dark .styled-checkbox+label:before  {
+    background-color: #131728;
+}
+.shadow-dark .header-main {
+    background-color: #131728;
+    border-color: #3f455b;
+}
+.shadow-dark .nav-item .dropdown-box .dropdown-box-inner,
+.shadow-dark .nft-items,
+.shadow-dark .nft-items::before {
+    background-color: #23293f;
+}
+.shadow-dark .nft-items {
+    box-shadow: none;
+}
+.shadow-dark .nft-items.nfts-multiple .multiple-layer::before, 
+.shadow-dark .nft-items.nfts-multiple .multiple-layer::after{
+    border: 1px solid rgb(63 69 91 / 60%);
+}
+.shadow-dark .header-main.fixed-header {
+    background-color: #23293f;
+    box-shadow: 0px 0px 15px #3f455b;
+}
+.shadow-dark .item-group-content .items-like > a {
+    color: rgb(255 255 255 / 65%) !important;
+}
+.shadow-dark .discover-box-info-top .theme-title {
+    color: #ffffff !important;
+}
+.shadow-dark .slider-area .slider-information h1,
+.shadow-dark .earn-area .earn-main-box .earn-info h2,
+.shadow-dark .section-title h2,
+.shadow-dark .theme-title > a,
+.shadow-dark .footer-copyright .copyright-text p,
+.shadow-dark .footer-copyright .copyright-text p > a,
+.shadow-dark .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link,
+.shadow-dark .nav-item .dropdown-box li > a,
+.shadow-dark .header-main.fixed-header .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link,
+.shadow-dark .switched-styles .hide-button,
+.shadow-dark .browse-detail-info h1,
+.shadow-dark .discover-box-info-top h2,
+.shadow-dark .item-group.item-group-list .item-group-content .item-group-info .theme-title>a,
+.shadow-dark .checkout-price-ratting ul > li > h2,
+.shadow-dark .nft-input,
+.shadow-dark .minting-plan-main .minting-plan-box h2,
+.shadow-dark .pricing-box .pricing-header h2,
+.shadow-dark .proposals-detail-area .proposals-detail-box h1,
+.shadow-dark .order-sucsess-area .order-sucsess-info h1,
+.shadow-dark .mintable-guides-info .theme-title,
+.shadow-dark .footer-widget .theme-title,
+.shadow-dark .promotion-sreact-slider .promotion-sreact-box > a .theme-title,
+.shadow-dark .discover-rate-box h2 {
+    color: #ffffff;
+}
+.shadow-dark .label-nft-input{
+    color: #888888;
+}
+.shadow-dark .ui-widget.ui-widget-content {
+    border: 1px solid #131728 !important;
+    background: #131728;
+}
+.shadow-dark .bradcrumb-main > .bradcrumb-title h1,
+.shadow-dark .bradcrumb-main > .bradcrumb-right > ul > li,
+.shadow-dark .bradcrumb-main > .bradcrumb-right > ul > li > a,
+.shadow-dark .bradcrumb-main > .bradcrumb-right > ul > li::before,
+.shadow-dark .show-result-box h1 {
+    color: #ffffff;
+}
+.shadow-dark .nav-item .dropdown-box li > a.active, 
+.shadow-dark .nav-item .dropdown-box li > a:hover {
+    background-color: #1a1d2c;
+}
+.shadow-dark .singel-about-box-item .singel-about-box-info .theme-title {
+	color: #ffffff !important;
+}
+.shadow-dark .theme-description,
+.shadow-dark .slider-area .slider-information .theme-description,
+.shadow-dark .earn-area .earn-main-box .theme-description,
+.shadow-dark .section-title .subtitle,
+.shadow-dark .theme-title,
+.shadow-dark .styled-checkbox+label,
+.shadow-dark .browse-product-right > ul > li .browse-list,
+.shadow-dark .item-group-timer > ul > li > span,
+.shadow-dark .pagination-box>ul>li>a,
+.shadow-dark .browse-product-left>p,
+.shadow-dark .min-item-box .min-item-item .theme-title,
+.shadow-dark .theme-input-box label,
+.shadow-dark .default-switch .switch-label,
+.shadow-dark .theme-model-popup-header h3,
+.shadow-dark .starting-bid ul li,
+.shadow-dark .browse-bid-detail .browse-bid-box h2,
+.shadow-dark .browse-time-left ul > li >span,
+.shadow-dark .browse-detail-info .browse-detail-timer .browse-time-right h2,
+.shadow-dark .browse-detail-info .store-ratting,
+.shadow-dark .price-filter-box h2,
+.shadow-dark .discover-box-info-top ul li,
+.shadow-dark .pricing-box .pricing-content>ul>li,
+.shadow-dark .user-policy-box ul li,
+.shadow-dark .proposals-sidebar-main > ul > li,
+.shadow-dark .switched-styles h4,
+.shadow-dark .user-policy-main h2,
+.shadow-dark .footer-widget .footer-menu-services .menu-service-menu > li > a,
+.shadow-dark .footer-widget .theme-description,
+.shadow-dark .nft-items .nft-highest-bid,
+.shadow-dark .nft-items .nft-items-info > h4,
+.shadow-dark .nft-items-authore .nft-items-like > span,
+.shadow-dark .browse-search-box .browse-search-input {
+    color: #989898;
+}
+.shadow-dark .nft-items-authore .nft-items-like > span:hover {
+    background-color: #131728;
+    color: #fff;
+}
+.shadow-dark .header-right-btn>ul > li > .theme-btn,
+.shadow-dark .switch-button,
+.shadow-dark .owl-nav > button,
+.shadow-dark .back-top-top,
+.shadow-dark .focus-nft-input::before,
+.shadow-dark .tag,
+.shadow-dark .pagination-box > ul > li.current  {
+	background-color: #29abe2;
+}
+.shadow-dark .header-right-btn > ul > li > .search-btn {
+    background-color: rgb(41 171 226 / 15%);
+    color: #29abe2 !important;
+}
+.shadow-dark .header-main.fixed-header .header-right-btn>ul>li>.search-btn {
+    background-color: rgb(57 72 104 / 50%);
+}
+.shadow-dark .header-right-btn>ul>li .login-text,
+.shadow-dark .section-title h6,
+.shadow-dark .theme-title>a:hover,
+.shadow-dark .earn-info h6,
+.shadow-dark .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link.active, 
+.shadow-dark .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link:hover,
+.shadow-dark .header-main.fixed-header .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link.active, 
+.shadow-dark .header-main.fixed-header .header-menu-box .header-navbar-menu .navbar .nav-item .nav-link:hover,
+.shadow-dark .mintable-pro-area .earn-main-box .earn-btn .theme-btn,
+.shadow-dark .search-close,
+.shadow-dark .item-group .item-price,
+.shadow-dark .store-ratting>i,
+.shadow-dark .item-group-box .item-group-bid h2,
+.shadow-dark .styled-checkbox+label > span > i, 
+.shadow-dark .theme-input-box label>i,
+.shadow-dark .wallet-detected-box .wallet-detected-item .wallet-close-btn,
+.shadow-dark .modal-content .modal-body .close,
+.shadow-dark .user-form .nft-links-btn > a,
+.shadow-dark .theme-description > a,
+.shadow-dark .styled-checkbox+label > span > a,
+.shadow-dark .browse-bid-detail .browse-bid-box h2 span,
+.shadow-dark .price-filter-box .price-small,
+.shadow-dark .item-group-btn .theme-btn,
+.shadow-dark .pagination-box>ul>li>a:hover,
+.shadow-dark .nft-items .nft-highest-bid > span,
+.shadow-dark .nft-items .nft-highest-bid > a {
+	color: #29abe2;
+}
+.shadow-dark .hot-bids-athore > a > img {
+    border-color: #3f455b;
+    box-shadow: 0px 0px 8px #3f455b;
+}
+.shadow-dark .most-viewed-items-area {
+    background-color: transparent;
+    border-color: #3f455b;
+}
+.shadow-dark .browse-product-right > ul > li .browse-list.active {
+    border-color: #3f455b !important;
+}
+.shadow-dark .upload-images-box .upload-images-item > i{
+	color: #29abe2;
+}
+.shadow-dark .browse-product-right > ul > li .browse-list.active {
+    color: #29abe2 !important;
+}
+.shadow-dark .slider-btn .theme-btn.sl-sale-btn,
+.shadow-dark .item-group:hover .item-group-btn .theme-btn,
+.shadow-dark .theme-btn,
+.shadow-dark .list-select-item>li>span.active, 
+.shadow-dark .list-select-item > li > span:hover {
+    background-color: #29abe2;
+    border-color: #29abe2;
+}
+.shadow-dark .item-group-content .items-like.like-active,
+.shadow-dark .view-store-item .view-store-box .item-group-btn .theme-btn,
+.shadow-dark .nft-filter .nav > li > a.active,
+.shadow-dark .discover-process .discover-process-box .discover-process-bar .progress-bar{
+	background-color: #29abe2;
+}
+.shadow-dark .item-group .store-label, 
+.shadow-dark .view-store-item .store-label, 
+.shadow-dark .nft-filter .nav>li>a {
+    background-color: #1d2236;
+    color: #989898;
+}
+.shadow-dark .slider-btn .theme-btn {
+    background-color: transparent;
+    border-color: #444444;
+    color: #fff;
+}
+.shadow-dark .promotion-sreact-slider {
+    background-color: #23293f;
+    box-shadow: 0 20px 50px 5px #23293f;
+    border-color: #3f455b;
+}
+.shadow-dark .singel-about-box-item .singel-about-box-icon {
+    background-color: #23293f;
+    box-shadow: 0 20px 50px 5px #111;
+}
+.shadow-dark .section-title h2[data-watermark]::before {
+    -webkit-text-stroke: 1px #3a3a3a;
+}
+.shadow-dark .item-group,
+.shadow-dark .view-store-item,
+.shadow-dark .discover-main-box,
+.shadow-dark .buy-votes-area .buy-vote-box,
+.shadow-dark .mint-item-main-box,
+.shadow-dark .mint-item-form .theme-input-box .cke_chrome,
+.shadow-dark .wallet-detected-box .wallet-detected-item,
+.shadow-dark .checkout-box-main .checkout-item,
+.shadow-dark .maintenance-area .maintenance-card,
+.shadow-dark .faq-box-main .faq-box,
+.shadow-dark .contact-area .contact-box-main,
+.shadow-dark .pro-stores-area .pro-store-box,
+.shadow-dark .pricing-box,
+.shadow-dark .proposals-box-main .proposals-box,
+.shadow-dark .proposals-sidebar-box,
+.shadow-dark .proposals-detail-area .proposals-detail-box,
+.shadow-dark .switched-styles {
+    background-color: #23293f;
+    box-shadow: 0 20px 50px 5px #23293f;
+    -webkit-box-shadow: 0 20px 50px 5px #23293f;
+    border-color: #3f455b;
+}
+.shadow-dark .modal-content .modal-body {
+    background-color: #23293f;
+    border-color: #3f455b;
+}
+.shadow-dark .browse-detail-info .browse-bid-detail {
+    background-color: #23293f;
+    border-color: #3f455b;   
+}
+.shadow-dark .browse-tag ul>li {
+    background-color: #3e445a;
+    color: #131728;
+}
+.shadow-dark .item-group-btn .theme-btn,
+.shadow-dark .nft-items .nft-items-authore {
+    border-color: #3f455b;
+}
+.shadow-dark .browse-detail-info .browse-detail-timer>div {
+    border-color: #444;
+}
+.shadow-dark .item-group:hover {
+    box-shadow: none;
+}
+.shadow-dark .promisional-secret-area,
+.shadow-dark .earn-area.pb-5 {
+    border-color: rgb(63 69 91 / 60%);
+}
+.shadow-dark .back-top-top:hover,
+.shadow-dark .em_bar_bg:before,
+.shadow-dark .default-switch input:checked+.slider {
+    background-color: #3aa4d0;
+}
+.shadow-dark .theme-btn::after, 
+.shadow-dark .theme-btn::before,
+.shadow-dark .theme-btn:hover::after, 
+.shadow-dark .theme-btn:hover::before {
+    background-color: #369dc8;
+}
+.shadow-dark .em_bar_bg {
+    background: rgb(41 171 226 / 20%);
+}
+.shadow-dark .page-background,
+.shadow-dark .price-range-slider .range-bar .ui-slider-handle {
+    background-color: #23293f;
+}
+.shadow-dark .top-selling-store .item-group .item-group-content::before {
+    background-color: rgb(41 171 226 / 75%);
+}
+.shadow-dark .footer-copyright {
+    border-color: #222;
+}
+.shadow-dark .footer-copyright {
+    background-color: #22293d;
+}
+.shadow-dark .discover-tab-pane-box .discover-tab-right .discover-tab-buy,
+.shadow-dark .min-item-box .min-item-item {
+    background-color: #131728;
+    color: #999;
+}
+.shadow-dark .ltr-rtl-demo .ltr-btn.active>a{
+    background-color: #313850;
+    color: #999;
+}
+.shadow-dark .min-item-box .min-item-item {
+	box-shadow: none;
+}
+.shadow-dark .mintable-pro-area .earn-main-box,
+.shadow-dark .item-group-box>.item-group-btn .theme-btn {
+    background-color: #29abe2;
+    border-color: #131728;
+}
+.shadow-dark .bradcrumb-area {
+    background-color: #23293f;
+    background-image: none;
+}
+.shadow-dark .browse-product-filter .filter-box,
+.shadow-dark .minting-plan-main .minting-plan-box {
+    background-color: #23293f;
+    border-color: #3f455b;
+    box-shadow: 0 4px 10px 0 #23293f;
+}
+.shadow-dark .browse-product-filter .filter-box .theme-title,
+.shadow-dark .browse-product-top,
+.shadow-dark .nav-tabs .nav-link:focus, 
+.shadow-dark .nav-tabs .nav-link:hover,
+.shadow-dark .item-group-box .item-group-bid,
+.shadow-dark .discover-rate-tab .discover-bottom,
+.shadow-dark .theme-btn.transparent-btn,
+.shadow-dark .min-item-box .min-item-item,
+.shadow-dark .list-select-item>li>span,
+.shadow-dark .mint-item-form .upload-images-box,
+.shadow-dark .cke_top,
+.shadow-dark .mint-item-form .theme-input-box .cke_chrome,
+.shadow-dark .theme-form-title .theme-title::before,
+.shadow-dark .fixed-price-tab-box .tab-content,
+.shadow-dark .browse-detail-info .browse-bid-detail .browse-refresh,
+.shadow-dark .switched-styles .ltr-rtl-demo,
+.shadow-dark .checkout-item .checkout-item-info,
+.shadow-dark .nft-input-box,
+.shadow-dark .theme-file-upload,
+.shadow-dark .upload-images-box .upload-images-item>i,
+.shadow-dark .faq-box-main .faq-box .theme-title,
+.shadow-dark .pricing-box .pricing-plan,
+.shadow-dark .proposals-sidebar-box .theme-title,
+.shadow-dark .switched-styles h4 {
+	border-color: #3f455b;
+}
+.shadow-dark .theme-file-upload {
+    background-color: rgb(19 23 40 / 30%);
+}
+.shadow-dark .styled-checkbox:checked+label:after {
+	background: #29abe2;
+	box-shadow: 2px 0 0 #29abe2, 4px 0 0 #29abe2, 4px -2px 0 #29abe2, 4px -4px 0 #29abe2, 4px -6px 0 #29abe2, 4px -8px 0 #29abe2;transform: rotate(45deg);
+}
+.shadow-dark .browse-product-right > ul > li .browse-list {
+    background-color: #23293f !important;
+}
+.shadow-dark .nft-dao-area .nft-dao-box .nft-dao-img img {
+    filter: opacity(0.2);
+}
+.shadow-dark .earn-btn .theme-btn.mints-btn {
+    background-color: #999;
+}
+.shadow-dark .theme-form-title .theme-title>span, 
+.shadow-dark .theme-input-box .theme-input,
+.shadow-dark .browse-tag ul>li {
+    background-color: #23293f;
+    border-color: #3f455b;
+    color: #989898;
+}
+.shadow-dark .default-switch .slider {
+    background-color: #444;
+}
+.shadow-dark .wallet-detected-box {
+    background-color: rgb(24 24 24 / 92%);
+}
+.shadow-dark .traditional-gasless-main .traditional-gasless-item {
+    background-color: transparent;
+    border-color: #3f455b;
+}
+.shadow-dark .singel-about-box-item .singel-about-box-icon img,
+.shadow-dark .nft-dao-area .nft-dao-box .nft-dao-icon img {
+    filter: invert(1.1);
+}
+.shadow-dark .footer-main {
+    background-color: #131728 !important;
+}
+.shadow-dark .footer-icon-box a {
+    border: 1px solid #fff;
+    color: #fff !important;
+    border-radius: 100%;
+}
